@@ -3,5 +3,5 @@
 
 public void main()
 {
-printf ("hello wolrd");
+  System.out.println("hello wolrd");
 }
